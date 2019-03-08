@@ -81,3 +81,6 @@ pp = pprint.PrettyPrinter(indent=4)
 print pp.pprint(status)
 print "\nDeleting test crawl.\n"
 diffbot.delete()
+
+
+
